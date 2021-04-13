@@ -6,9 +6,9 @@ http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/3f/2f/c43f2fb2-49bd-0436-2e63-958b4dce0537/AppIcon-0-1x_U007emarketing-0-0-85-220-2.png/1200x630wa.png",Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Hang-Meas.png",HangMeas
-http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w660255627_b1800000_sleng.m3u8
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Rasmey-Hang-Meas.png",Resmey HangMeas
-http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w507539696_b1800000_sleng.m3u8
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/e4/e3/f4e4e334-2fb4-6509-1a37-51e167fd7dfa/source/512x512bb.jpg",WIKI TV
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CTN-Cambodia.png",CTN
