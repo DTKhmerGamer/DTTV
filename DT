@@ -25,8 +25,6 @@ http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
 http://96.9.77.79:1935/live/SEATV/chunklist_w1661522455.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/PNN.png",PNN
 http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="https://2.bp.blogspot.com/-4cWMH4_dGlM/Vpw_reGFMOI/AAAAAAAAAns/CV15ssST9KI/s1600/CTV8-CHANNEL.jpg",CTV8 Cambodia
-http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV9-Cambodia.png",TV9 Cambodia
 http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Apsara.png",APSARATV
