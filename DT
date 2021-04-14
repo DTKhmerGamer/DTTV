@@ -12,7 +12,7 @@ http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/e4/e3/f4e4e334-2fb4-6509-1a37-51e167fd7dfa/source/512x512bb.jpg",WIKI TV
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CTN-Cambodia.png",CTN
-http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
+http://203.144.66.242:80/live/live008/s.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/MYTV-Cambodia.png",MYTV
 http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CNC-Cambodia.png",CNC
