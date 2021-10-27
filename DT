@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/BTV-News-Cambodia.png",BTV
-http://203.144.66.243/live/live008/s.m3u8
+
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/BayonTV.png",Bayon TV
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/3f/2f/c43f2fb2-49bd-0436-2e63-958b4dce0537/AppIcon-0-1x_U007emarketing-0-0-85-220-2.png/1200x630wa.png",Fresh News TV
