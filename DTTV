@@ -1,3 +1,803 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://i.mydramalist.com/rEnoyf.jpg" subtitles=https://github.com/DTKhmerGamer/DTTV/raw/master/Fix.You.E01-E02.200506-NEXT-VIU.srt",Ep1
-https://storage.googleapis.com/fine-serenity-319604/7M9NDQN6MVOL/st23_fix-you-2020-episode-1.1626735943.mp4
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+##CAMBODIA =========================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rnkl1hu.jpg" group-title="Cambodia", RHM HD
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Al3Hdah.jpg" group-title="Cambodia", HANG MEAS HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oZbrLP5.jpg" group-title="Cambodia", PNN HD
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Cambodia", CNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/966549443?profile=pass
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png" group-title="Cambodia", MYTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channel/24907eda7482b7ea5704d87ca7b6cb2c?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="Cambodia", CTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/536374439?profile=pass
+
+#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="Cambodia", BTV News
+https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontv.png" group-title="Cambodia", Bayon TV
+https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town HD TV
+https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://logos.fandom.com/wiki/National_Television_of_Kampuchea?file=TV_Kampuchea.jpg", TVK
+https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8NmU9zAI8II/YAxK9xDT6nI/AAAAAAAAKZI/yWn2huJJTv8clEthifz8IFaRtCjbbVYCwCLcBGAsYHQ/s332/tvk2.png" group-title="Cambodia", TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="Cambodia", TV5
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="Cambodia", TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/964045200?profile=passle=pass
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yu1wPyN.jpg" group-title="Cambodia", SEATV HD
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="Cambodia", TV9
+https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://i.ibb.co/qFrdNJ6/Apsara-BEARTV.jpg", Apsara TV
+https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://imgur.com/PSdMe2m.jpg", MoI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="Cambodia", MSJTV
+http://124.248.165.18:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cambodia" tvg-id="FreshNews.kh", Fresh News (720p)
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dcniccw.jpg" group-title="Cambodia", Wiki TV
+http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://yt3.googleusercontent.com/dSLy3O7Xn-qVae4fsBT3ghu--CJ97bZiCZcUkSeJxEvmYxlymxk5QVxfEG4ypwyZsjZqgSGZP9o=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia", NETLINK TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", CTV8KH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channel/e926404a648d409acc36d475505f9f0e?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", PPCTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channel/7a1b347c65901ddd6a9ea8ad1982c884?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", PPCTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channel/2f1e34b6baf0c07ad6baae9f9f290d2e?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="Cambodia", AKCTV 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/434020659?profile=pass
+
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="Cambodia", AKCTV 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/1941077281?profile=pass
+
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="Cambodia", AKCTV 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/1721237608?profile=pass
+
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="Cambodia", AKCTV 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channelid/1601899558?profile=pass
+
+##NEWS =========================================================================================================================================================
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="News", ABC News HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" group-title="News", ABC News (AU)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://themaydan.com/wp-content/uploads/2018/02/aljazeera.jpg" group-title="News",Al Jazeera HD
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://pbs.twimg.com/profile_images/419141811785854978/kYXvz2bh_400x400.jpeg" group-title="News", Arirang World HD
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News" , Bloomberg TV+ UHD
+https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News" , Bloomberg Originals (US)
+https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBC900012J9" tvg-id="GBBC900012J9" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News" , Bloomberg Originals (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News", BBC News HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2932.ts
+
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News", BBC WORLD NEWS FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2933.ts
+
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News", BBC News Asia Pacific HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+#EXTINF:-1 channel-id="samsung-USBB32000103E" tvg-id="USBB32000103E" tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="News", CNN Headlines
+https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="News", CNN (UK)
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="News" , CNN Newsroom
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News", CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cnbc1841.jpg" group-title="News", CNBC NEWS (EU)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2936.ts
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.pinimg.com/originals/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.png" group-title="News", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://m.media-amazon.com/images/I/61-5K6QDrnL.png" group-title="News", Euronews English HD
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="News", FUEL TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+
+#EXTINF:0 tvg-logo="https://globalnews.ca/wp-content/uploads/2014/12/globalnewsnew.jpg" group-title="News", Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" group-title="News", I24 News HD
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World HD (JP)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB2200014DK" tvg-id="USBB2200014DK" tvg-logo="https://media.designrush.com/inspiration_images/137154/conversions/_1526668075_207_NBC-Logo-Design_680a7b0fd386-mobile.jpg" group-title="News" , NBC News NOW
+https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" group-title="News" , Sky News HD
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" tvg-id="MetroGlobeNetwork.id" group-title="News",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="USA Today" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-id="USATODAY.us" group-title="News",USA Today
+https://lnc-usa-today.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="News",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+##DOCUMENTARY =========================================================================================================================================================
+
+#EXTINF:-1 channel-id="samsung-USBD1700001RW" tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20230823T001644SQUARE.png_20230823001645.png" group-title="Documentary", BBC Earth (US)
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
+#EXTINF:-1 channel-id="samsung-DEBA1000007UF" tvg-id="DEBA1000007UF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000007UF_20220323T071820SQUARE.png_20220323071823.png" group-title="Documentary", BBC History (Germany)
+https://i.mjh.nz/SamsungTVPlus/DEBA1000007UF.m3u8
+
+#EXTINF:-1 channel-id="samsung-DEBA1000009TT" tvg-id="DEBA1000009TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png" group-title="Documentary", BBC Travel (Germany)
+https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary", CGTN Documentary (CHINA)
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/230920
+
+#EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" group-title="Documentary" , Alien Nation by DUST
+https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
+
+#EXTINF:-1 tvg-id="https://en.wikipedia.org/wiki/48_Hours_(TV_program)#/media/File:48_Hours_(2019).svg" group-title="Documentary",48 Hours (Pluto TV) (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Finland) (720p)
+https://live-fi.tvkaista.net/national-geographic/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3028.ts
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC WILD FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3029.ts
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC HD (PT)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/9771.ts
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC WILD (PT)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/9769.ts
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36946.ts
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Documentary", NATIONAL GEOGRAPHIC WILD HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36947.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="Documentary", LOVE NATURE HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36944.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" group-title="Documentary", DISCOVERY CHANNEL FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3025.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" group-title="Documentary", DISCOVERY SCIENCE HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1381.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_History#/media/File:Discovery_History_logo.png" group-title="Documentary", DISCOVERY HISTORY HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1382.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" group-title="Documentary", DISCOVERY CHANNEL HD (CA)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/42058.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" group-title="Documentary", DISCOVERY SCIENCE HD (CA)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/42059.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Discovery_History#/media/File:Discovery_History_logo.png" group-title="Documentary", HISTORY CHANNEL FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3030.ts
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="Documentary", Pluto TV Animals (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Documentary", Pluto TV Animals (UK) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary", ANIMAL PLANET HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1377.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Digi_animal_world_ro.png" group-title="Documentary", Digi Animal World (RO)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68531.ts
+
+#EXTINF:-1 tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Documentary", Pluto TV Crime (England) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
+
+##ENTERTAINMENT =========================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Entertainment", HBO UHD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21248
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Paramount_Pictures#/media/File:Paramount_Pictures_2022_(Blue).svg" group-title="Entertainment", PARAMOUNT FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2108.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_One#/media/File:Sky_One_-_Logo_2020.png" group-title="Entertainment", SKY 1 FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2110.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA PREMIERE FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2961.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA FAMILY FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2963.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA DRAMA & ROMANCE FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2965.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA COMEDY FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2967.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA ACTION & ADVENTURE FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2969.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA HITS FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2979.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA DISNEY FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2976.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Entertainment", SKY CINEMA GREATS FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/51815.ts
+
+#EXTINF:-1 tvg-logo="https://dreamlogos.fandom.com/wiki/Sky_Cinema_(United_States)?file=Sky_Movies_Logo_%282011%29.png.png" group-title="Entertainment", SKY MOVIES PREMIER HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1403.ts
+
+#EXTINF:-1 tvg-logo="https://dreamlogos.fandom.com/wiki/Sky_Cinema_(United_States)?file=Sky_Movies_Logo_%282011%29.png.png" group-title="Entertainment", SKY MOVIES ACTION & ADVENTURE HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1404.ts
+
+#EXTINF:-1 tvg-logo="https://dreamlogos.fandom.com/wiki/Sky_Cinema_(United_States)?file=Sky_Movies_Logo_%282011%29.png.png" group-title="Entertainment", SKY MOVIES THRILLER HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1405.ts
+
+#EXTINF:-1 tvg-logo="https://dreamlogos.fandom.com/wiki/Sky_Cinema_(United_States)?file=Sky_Movies_Logo_%282011%29.png.png" group-title="Entertainment", SKY MOVIES COMEDY HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1406.ts
+
+#EXTINF:-1 tvg-logo="https://dreamlogos.fandom.com/wiki/Sky_Cinema_(United_States)?file=Sky_Movies_Logo_%282011%29.png.png" group-title="Entertainment", SKY MOVIES SCI-FI & HORROR HD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1407.ts
+
+#EXTINF:-1 tgv-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Channel_4_%28On_Demand%29_2023.svg" group-title="Entertainment", CHANNEL 4 FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/52289.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Channel_5_(British_TV_channel)#/media/File:Channel_5_(UK)_2016.svg" group-title="Entertainment", CHANNEL 5 FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/52288.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Comedy_Central_(British_TV_channel)#/media/File:Comedy_Central_2018.svg" group-title="Entertainment", COMEDY HD (CA)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/42026.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Comedy_Central_(British_TV_channel)#/media/File:Comedy_Central_2018.svg" group-title="Entertainment", COMEDY CENTRAL FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2986.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Entertainment", Cartoon Network HD (CA)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/41992.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Entertainment", CARTOON NETWORK FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2950.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Entertainment", DISNEY CHANNEL FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2951.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Entertainment", DISNEY JUNIOR FHD (UK)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2952.ts
+
+##SPORTS =========================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="Sports", EUROSPORT 1 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1423.ts
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="Sports", EUROSPORT 2 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1424.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 1 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 2 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 3 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36910.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 4 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36911.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 5 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36912.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 6 HD (NL)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports", NBA TV (CA)
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/42148.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MIX FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2102.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MIX HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2092.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS PREMIER LEAGUE FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS FOOTBALL FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2090.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MAIN EVENT FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2091.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS ACTION FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2095.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS ARENA FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2096.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS CRICKET FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2097.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS F1 FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2098.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS GOLF FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2100.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS RACING FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2104.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS NEWS FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2109.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports", BT SPORT ESPN FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2898.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports", BT SPORT ESPN HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1431.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 1 FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2107.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 2 FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2106.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 3 FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2105.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 1 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1425.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 2 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1428.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 3 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1429.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORTS EXTRA 1
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1713.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORT 1 FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2906.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORTS 1 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1433.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORTS 2 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1434.ts
+
+#EXTINF:-1 tgv-logo="https://logos.fandom.com/wiki/Racing_TV_(UK_and_Ireland_TV_channel)?file=Racing_TV_2018.svg" group-title="Sports", RACING UK HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1437.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg" group-title="Sports", BOX NATION HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1439.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sports", FIGHTBOX HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1440.ts
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports", FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg" group-title="Sports", PREMIER SPORTS 2 HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1721.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Viaplay_Xtra#/media/File:FreeSportsLogo.jpg" group-title="Sports", FREESPORTS (PREMIER LEAGUE) FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1720.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/0/0d/Chelsea_FC.png" group-title="Sports", CHELSEA TV
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2904.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/LFC_TV#/media/File:LFC_TV_logo.png" group-title="Sports", LIVERPOOL HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/7531.ts
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Sports", SKY CINEMA THRILLER FHD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/51814.ts
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports", Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports", Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Sports", EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, group-title="Sports", beIN Sports HD
+http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/41976.ts
+
+##THAILAND =========================================================================================================================================================
+
+#EXTINF:-1 tvg-id="3HD" tvg-name="CH3 HD" group-title="Thailand" tvg-logo="https://i.imgur.com/lHbIKfF.png", CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="Thailand" tvg-logo="https://i.imgur.com/4MIQNPQ.png", TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+
+#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" group-title="Thailand" tvg-logo="https://i.imgur.com/IDMQ2xe.png", CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" group-title="Thailand" tvg-logo="https://i.imgur.com/WypvBZ7.jpg", Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" group-title="Thailand" tvg-logo="https://i.imgur.com/RSQLFiU.png", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE31 HD" tvg-name="ONE31 HD" group-title="Thailand" tvg-logo="https://i.imgur.com/9apyiI0.png", ONE31 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS" tvg-name="ThaiPBS" group-title="Thailand" tvg-logo="https://i.imgur.com/OFsQwvv.png", ThaiPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8
+
+#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" group-title="Thailand" tvg-logo="https://i.imgur.com/50EIb6z.png", NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" group-title="Thailand" tvg-logo="https://i.imgur.com/mfVhuRC.png", TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8
+
+#EXTINF:-1 tvg-id="Nation TV" tvg-name="Nation TV" group-title="Thailand" tvg-logo="https://i.imgur.com/RULAfjb.png", Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" group-title="Thailand" tvg-logo="https://i.imgur.com/oxf6BRn.png", Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8
+
+#EXTINF:-1 tvg-id="Thairath TV" tvg-name="Thairath TV" group-title="Thailand" tvg-logo="https://i.imgur.com/ArasZJO.png", Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
+
+#EXTINF:-1 tvg-id="Mono 29" tvg-name="Mono 29" group-title="Thailand" tvg-logo="https://i.imgur.com/V4VWHiB.png", Mono 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
+
+#EXTINF:-1 tvg-id="AmarinTV HD" tvg-name="Amarin TV" group-title="Thailand" tvg-logo="https://i.imgur.com/S6gvvf9.png", Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTV HD" tvg-name="PPTV HD" group-title="Thailand" tvg-logo="https://i.imgur.com/i4t7Q0C.png", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOT HD" tvg-name="MCOT HD" group-title="Thailand" tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+
+#EXTINF:-1 tvg-id="True4U" tvg-name="True4U" group-title="Thailand" tvg-logo="https://i.imgur.com/tXb8NiE.png",True4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM 25" tvg-name="GMM 25" group-title="Thailand" tvg-logo="https://i.imgur.com/sWGT1SD.png", GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.siamnews.net/2018/05/cropped-siamnews-bw-helv-square.png" group-title="Thailand", SIAM NEWS TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="Thailand" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Thailand" tvg-logo="https://i.imgur.com/Ruc88XO.png", Boomerang Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
+#EXTINF:-1 tvg-id="T Sports 7" tvg-name="T Sports 7" group-title="Thailand" tvg-logo="https://i.imgur.com/hnfiUbK.png", T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" group-title="Thailand" tvg-logo="https://i.imgur.com/Jfdy937.png",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JKN 18" tvg-name="JKN 18" group-title="Thailand" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8
+
+#EXTINF:-1 tvg-id="7Flix" tvg-name="7Flix" group-title="Thailand" tvg-logo="https://i.imgur.com/XTC7PUr.png", 7Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Thailand" tvg-logo="https://i.imgur.com/9lsXfc0.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="Thailand" tvg-logo="https://i.imgur.com/3V6ads0.png", TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jomyut" tvg-name="Jomyut" group-title="Thailand" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg", Jomyut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Thailand" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx", Mangorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTB" tvg-name="CTB" group-title="Thailand" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png", CTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1 TH" tvg-name="MOVIES WORLD 1 TH" group-title="Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1 EN" tvg-name="MOVIES WORLD 1 EN" group-title="Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 tvg-id="@TV" tvg-name="@TV" group-title="Thailand" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" group-title="Thailand" tvg-logo="https://i.imgur.com/Dsgpo4I.png",ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volce TV" tvg-name="Voice TV" group-title="Thailand" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png",Voice TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
+
+##CHINA =========================================================================================================================================================
+
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
+
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" group-title="China",CCTV-2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（亚） Ⓨ" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" group-title="China",CCTV-4 中文国际（亚） Ⓨ
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="China",CCTV-4 中文国际（美） Ⓢ
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" group-title="China",CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" group-title="China",CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" group-title="China",CCTV-7 国防军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" group-title="China",CCTV-8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="CCTV9.cn" group-title="China",CCTV-9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" tvg-id="CCTV10.cn" group-title="China",CCTV-10 科教
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China",CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" group-title="China",CCTV-17 农业农村
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" tvg-id="CETV1.cn" group-title="China",CETV-1
+http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://i.imgur.com/a9mvoeP.png" tvg-id="CETV2.cn" group-title="China",CETV-2
+http://txycsbl.centv.cn/zb/0822cetv2.m3u8
+
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",CETV-3
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://i.imgur.com/BRe0ybV.png" tvg-id="CETV4.cn" group-title="China",CETV-4
+http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+
+#EXTINF:-1 tvg-name="TV BRICS Chinese" tvg-logo="https://i.imgur.com/896132Z.png" tvg-id="TVBRICSChinese.cn" group-title="China",TV BRICS Chinese
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+
+##TAIWAN =========================================================================================================================================================
+
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
+
+#EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" tvg-id="CTVNewsChannel.tw" group-title="Taiwan",CTV News Channel (中視新聞台) Ⓨ
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+#EXTINF:-1 tvg-name="PTS Taigi (公視台語台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png" tvg-id="PTSTaigi.tw" group-title="Taiwan",PTS Taigi (公視台語台) Ⓨ Ⓖ
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+
+#EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/640px-Taiwan_Plus_logo.svg.png" tvg-id="TaiwanPlus.tv" group-title="Taiwan",TaiwanPlus Ⓨ
+https://www.youtube.com/watch?v=dZp87qnWelE
+
+#EXTINF:-1 tvg-name="民視無線台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/640px-FTV_HD_Logo.svg.png" tvg-id="FTV.tw" group-title="Taiwan",民視無線台
+http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="Taiwan",FTV One (民視第一台)
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 tvg-name="FTV News (民視新聞台) Ⓨ" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="FTVNews.tw" group-title="Taiwan",FTV News (民視新聞台) Ⓨ
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" tvg-logo="https://i.imgur.com/p108I5g.png" tvg-id="FTVTaiwan.tw" group-title="Taiwan",FTV Taiwan (民視台灣台)
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" tvg-id="TTV.tw" group-title="Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
+https://www.youtube.com/watch?v=uDqQo8a7Xmk
+
+#EXTINF:-1 tvg-name="TTV News (台視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" group-title="Taiwan",TTV News (台視新聞台) Ⓨ
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+#EXTINF:-1 tvg-name="Congress Channel 1 Ⓨ" tvg-logo="https://i.imgur.com/0dVlvsz.png" tvg-id="CongressChannel1.tw" group-title="Taiwan",Congress Channel 1 Ⓨ
+https://www.youtube.com/watch?v=4HysYHJ6GkY
+
+#EXTINF:-1 tvg-name="Congress Channel 2 Ⓨ" tvg-logo="https://i.imgur.com/htGr996.png" tvg-id="CongressChannel2.tw" group-title="Taiwan",Congress Channel 2 Ⓨ
+https://www.youtube.com/watch?v=RAP4h3q6_Sg
+
+##KOREA =========================================================================================================================================================
+
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
+
+#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="Korea",EBS 1 Ⓢ
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="Korea",EBS 2 Ⓢ
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" tvg-id="MBCTV.kr" group-title="Korea",MBC TV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" group-title="Korea",SBS TV
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+
+#EXTINF:-1 tvg-name="KNN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/512px-KNN_logo.svg.png" tvg-id="KNNTV.kr" group-title="Korea",KNN TV
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" group-title="Korea",KBC TV
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TJB TV" tvg-logo="https://i.imgur.com/q9Nx801.png" tvg-id="TJBTV.kr" group-title="Korea",TJB TV
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/512px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" group-title="Korea",UBC TV
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/512px-Jtv_logo.svg.png" tvg-id="JTV.kr" group-title="Korea",JTV TV
+https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" tvg-id="CJBTV.kr" group-title="Korea",CJB TV
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" tvg-id="JIBSTV.kr" group-title="Korea",JIBS TV
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" tvg-id="OBSGyeonginTV.kr" group-title="Korea",OBS TV
+https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
+
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" group-title="Korea",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-id="EBSKids.kr" group-title="Korea",EBS Kids Ⓢ
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" tvg-id="EBSPlus1.kr" group-title="Korea",EBS Plus 1 Ⓢ
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" tvg-logo="https://i.imgur.com/mgFRZFq.png" tvg-id="EBSPlus2.kr" group-title="Korea",EBS Plus 2 Ⓢ
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="EBSEnglish.kr" group-title="Korea",EBS English Ⓢ
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" tvg-id="KBSDrama.kr" group-title="Korea",KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+
+#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" group-title="Korea",KBS Joy
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+
+#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" tvg-id="KBSKids.kr" group-title="Korea",KBS Kids
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+
+#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" tvg-id="KBSLife.kr" group-title="Korea",KBS Life
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" tvg-id="KBSStory.kr" group-title="Korea",KBS Story
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="Korea",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="Korea", NEW KPOP
+https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
