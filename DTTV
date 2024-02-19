@@ -75,11 +75,11 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/e926404a648d409acc36d475505f9f0e?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", PPCTV6
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQMZWY-o5p6CVTQkkkg2jIDdjsZr7FZi7V7j65f=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia", PPCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/7a1b347c65901ddd6a9ea8ad1982c884?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", PPCTV10
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCi0jljPmxu2J39U-KgxAlXg&psig=AOvVaw2rQkj-8TSLZ6n8lACBTioL&ust=1708395884211000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC10t-stoQDFQAAAAAdAAAAABAT" group-title="Cambodia", PPCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/2f1e34b6baf0c07ad6baae9f9f290d2e?profile=webtv-vp8-vorbis-webm
 
