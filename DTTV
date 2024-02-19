@@ -38,7 +38,8 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="Cambodia", TV5
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://203.80.165.14/stream/channel/b1b924f78be1a86bbbe615cb8540aaed?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="Cambodia", TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
