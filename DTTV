@@ -331,8 +331,8 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Comedy_Central_(British_TV_channel)#/media/File:Comedy_Central_2018.svg" group-title="Entertainment", COMEDY CENTRAL FHD (UK)
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2986.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Entertainment", CARTOON NETWORK
-http:\\supertv.xyz:8080\BekaPD\e7U4HvwrXG\75302.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Entertainment", Cartoon Network
+http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/78237
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Entertainment", DISNEY CHANNEL
 http:\\supertv.xyz:8080\BekaPD\e7U4HvwrXG\70647.ts
