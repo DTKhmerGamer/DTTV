@@ -31,7 +31,7 @@ https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town HD TV
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://logos.fandom.com/wiki/National_Television_of_Kampuchea?file=TV_Kampuchea.jpg", TVK
+#EXTINF:-1 group-title="Cambodia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg", TVK
 https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8NmU9zAI8II/YAxK9xDT6nI/AAAAAAAAKZI/yWn2huJJTv8clEthifz8IFaRtCjbbVYCwCLcBGAsYHQ/s332/tvk2.png" group-title="Cambodia", TVK 2
