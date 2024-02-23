@@ -1,102 +1,102 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
-##CAMBODIA =========================================================================================================================================================
+##ប៉ុស្ត៏ខ្ឬែរ Cambodia =========================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rnkl1hu.jpg" group-title="Cambodia", RHM HD
+#EXTINF:-1 tvg-logo="https://imgur.com/rnkl1hu.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", រស្មីហង្សមាស HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Al3Hdah.jpg" group-title="Cambodia", HANG MEAS HDTV
+#EXTINF:-1 tvg-logo="https://imgur.com/Al3Hdah.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", ហង្សមាស HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oZbrLP5.jpg" group-title="Cambodia", PNN HD
+#EXTINF:-1 tvg-logo="https://imgur.com/oZbrLP5.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", PNN TV
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Cambodia", CNC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", CNC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/966549443?profile=pass
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png" group-title="Cambodia", MYTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", MYTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/24907eda7482b7ea5704d87ca7b6cb2c?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="Cambodia", CTN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", CTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/536374439?profile=pass
 
-#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="Cambodia", BTV News
+#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontv.png" group-title="Cambodia", Bayon TV
+#EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontv.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", Bayon TV
 https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town HD TV
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town HD TV
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg", TVK
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg", TVK
 https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8NmU9zAI8II/YAxK9xDT6nI/AAAAAAAAKZI/yWn2huJJTv8clEthifz8IFaRtCjbbVYCwCLcBGAsYHQ/s332/tvk2.png" group-title="Cambodia", TVK 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8NmU9zAI8II/YAxK9xDT6nI/AAAAAAAAKZI/yWn2huJJTv8clEthifz8IFaRtCjbbVYCwCLcBGAsYHQ/s332/tvk2.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="Cambodia", TV5
+#EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/b1b924f78be1a86bbbe615cb8540aaed?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="Cambodia", TV3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3ប៉ុស្ត៏ខ្ឬែរ Cambodia2004.png/revision/latest?cb=20191208065059" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/902976b999a9acc3403fda7d1f66991a?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yu1wPyN.jpg" group-title="Cambodia", SEATV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/yu1wPyN.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", SEATV HD
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="Cambodia", TV9
+#EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9ប៉ុស្ត៏ខ្ឬែរ Cambodia.png/revision/latest?cb=20191208065632" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", TV9
 https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://i.ibb.co/qFrdNJ6/Apsara-BEARTV.jpg", Apsara TV
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://i.ibb.co/qFrdNJ6/Apsara-BEARTV.jpg", Apsara TV
 https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://imgur.com/PSdMe2m.jpg", MoI TV
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://imgur.com/PSdMe2m.jpg", MoI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="Cambodia", MSJTV
+#EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cambodia" tvg-logo="https://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png", Fresh News (720p)
+#EXTINF:-1 group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia" tvg-logo="https://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png", Fresh News (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dcniccw.jpg" group-title="Cambodia", Wiki TV
+#EXTINF:-1 tvg-logo="https://imgur.com/dcniccw.jpg" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", Wiki TV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://yt3.googleusercontent.com/dSLy3O7Xn-qVae4fsBT3ghu--CJ97bZiCZcUkSeJxEvmYxlymxk5QVxfEG4ypwyZsjZqgSGZP9o=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia", NETLINK TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://yt3.googleusercontent.com/dSLy3O7Xn-qVae4fsBT3ghu--CJ97bZiCZcUkSeJxEvmYxlymxk5QVxfEG4ypwyZsjZqgSGZP9o=s900-c-k-c0x00ffffff-no-rj" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", NETLINK TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="Cambodia", CTV8KH
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", CTV8KH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/e926404a648d409acc36d475505f9f0e?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQMZWY-o5p6CVTQkkkg2jIDdjsZr7FZi7V7j65f=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia", PPCTV9
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQMZWY-o5p6CVTQkkkg2jIDdjsZr7FZi7V7j65f=s900-c-k-c0x00ffffff-no-rj" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", PPCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/7a1b347c65901ddd6a9ea8ad1982c884?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT1p7ljkQg7WO62hcg326HogOttPyM8M4prLCeV=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia", PPCTV10
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT1p7ljkQg7WO62hcg326HogOttPyM8M4prLCeV=s900-c-k-c0x00ffffff-no-rj" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", PPCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/2f1e34b6baf0c07ad6baae9f9f290d2e?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="Cambodia", AKCTV 21
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", AKCTV 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/434020659?profile=pass
 
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="Cambodia", AKCTV 23
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", AKCTV 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1941077281?profile=pass
 
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="Cambodia", AKCTV 25
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", AKCTV 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1721237608?profile=pass
 
-#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="Cambodia", AKCTV 26
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", AKCTV 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 
@@ -332,7 +332,7 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2986.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Entertainment", CARTOON NETWORK
-http://fpt.vthanhtivi.pw/cartoon/index.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132378
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Entertainment", DISNEY CHANNEL FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2951.ts
@@ -340,147 +340,147 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg" group-title="Entertainment", DISNEY JUNIOR FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2952.ts
 
-##SPORTS =========================================================================================================================================================
+##ប៉ុស្ត៏កីឡា SPORTS =========================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="Sports", EUROSPORT 1 HD
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1423.ts
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ប៉ុស្ត៏កីឡា Sports", EUROSPORT 1
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151608
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="Sports", EUROSPORT 2 HD
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1424.ts
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ប៉ុស្ត៏កីឡា Sports", EUROSPORT 2
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151609
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 1 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36908.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 1
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3980
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 2 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36909.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 2
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3976
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 3 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36910.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3974
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 4 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36911.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 4
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3961
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 5 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36912.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 5
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7937
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports", ESPN 6 HD (NL)
-http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/36913.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ប៉ុស្ត៏កីឡា Sports", ESPN 6
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3977
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports", NBA TV (CA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="ប៉ុស្ត៏កីឡា Sports", NBA TV (CA)
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/42148.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MIX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS MIX FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2102.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MIX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS MIX HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2092.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS PREMIER LEAGUE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS PREMIER LEAGUE FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2103.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS FOOTBALL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS FOOTBALL FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2090.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS MAIN EVENT FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS MAIN EVENT FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2091.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS ACTION FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS ACTION FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2095.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS ARENA FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS ARENA FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2096.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS CRICKET FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS CRICKET FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2097.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS F1 FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2098.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS GOLF FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS GOLF FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2100.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS RACING FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS RACING FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2104.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="Sports", SKY SPORTS NEWS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY SPORTS NEWS FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2109.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports", BT SPORT ESPN FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT ESPN FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2898.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports", BT SPORT ESPN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT ESPN HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1431.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 1 FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2107.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 2 FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2106.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 3 FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2105.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 1 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1425.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 2 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1428.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORT 3 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1429.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports", BT SPORTS EXTRA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="ប៉ុស្ត៏កីឡា Sports", BT SPORTS EXTRA 1
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1713.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="ប៉ុស្ត៏កីឡា Sports", EIR SPORT 1 FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2906.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="ប៉ុស្ត៏កីឡា Sports", EIR SPORTS 1 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1433.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="Sports", EIR SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Eir_Sport#/media/File:Eirsportlogo.png" group-title="ប៉ុស្ត៏កីឡា Sports", EIR SPORTS 2 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1434.ts
 
-#EXTINF:-1 tgv-logo="https://logos.fandom.com/wiki/Racing_TV_(UK_and_Ireland_TV_channel)?file=Racing_TV_2018.svg" group-title="Sports", RACING UK HD
+#EXTINF:-1 tgv-logo="https://logos.fandom.com/wiki/Racing_TV_(UK_and_Ireland_TV_channel)?file=Racing_TV_2018.svg" group-title="ប៉ុស្ត៏កីឡា Sports", RACING UK HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1437.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg" group-title="Sports", BOX NATION HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg" group-title="ប៉ុស្ត៏កីឡា Sports", BOX NATION HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1439.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sports", FIGHTBOX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="ប៉ុស្ត៏កីឡា Sports", FIGHTBOX HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1440.ts
 
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports", FightBox
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="ប៉ុស្ត៏កីឡា Sports", FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg" group-title="Sports", PREMIER SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg" group-title="ប៉ុស្ត៏កីឡា Sports", PREMIER SPORTS 2 HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1721.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Viaplay_Xtra#/media/File:FreeSportsLogo.jpg" group-title="Sports", FREESPORTS (PREMIER LEAGUE) FHD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Viaplay_Xtra#/media/File:FreeSportsLogo.jpg" group-title="ប៉ុស្ត៏កីឡា Sports", FREESPORTS (PREMIER LEAGUE) FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1720.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/0/0d/Chelsea_FC.png" group-title="Sports", CHELSEA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/0/0d/Chelsea_FC.png" group-title="ប៉ុស្ត៏កីឡា Sports", CHELSEA TV
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2904.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/LFC_TV#/media/File:LFC_TV_logo.png" group-title="Sports", LIVERPOOL HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/LFC_TV#/media/File:LFC_TV_logo.png" group-title="ប៉ុស្ត៏កីឡា Sports", LIVERPOOL HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/7531.ts
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="Sports", SKY CINEMA THRILLER FHD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sky_Cinema#/media/File:Sky_Cinema_-_Logo_2020.svg" group-title="ប៉ុស្ត៏កីឡា Sports", SKY CINEMA THRILLER FHD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/51814.ts
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports", Red Bull TV (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="ប៉ុស្ត៏កីឡា Sports", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports", Ski TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="ប៉ុស្ត៏កីឡា Sports", Ski TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 
-#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="Sports", EDGEsport (1080p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="ប៉ុស្ត៏កីឡា Sports", EDGEsport (1080p)
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportsGrid.us" group-title="Sports",SportsGrid (1080p)
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="ប៉ុស្ត៏កីឡា Sports",SportsGrid (1080p)
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, group-title="Sports", beIN Sports HD
+#EXTINF:-1, group-title="ប៉ុស្ត៏កីឡា Sports", beIN Sports HD
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/41976.ts
 
 ##THAILAND =========================================================================================================================================================
