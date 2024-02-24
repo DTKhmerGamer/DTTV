@@ -323,8 +323,8 @@ http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Comedy_Central_(British_TV_channel)#/media/File:Comedy_Central_2018.svg" group-title="ប៉ុស្ត៍ភាពយន្ត Movie", COMEDY CENTRAL FHD (UK)
 http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2986.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-max/images/5/5c/CartoonNetworkLogo.png" group-title="ប៉ុស្ត៍តុក្កតា Cartoon", Cartoon Network
-https:\\6oclock.xyz:8443\oVTsSvYjZu\cAXDNm9LY9\21460
+#EXTINF:-1,CARTOON NETWORK (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21460
 
 #EXTINF:-1,DISNEY CHANNEL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21433
