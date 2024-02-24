@@ -334,3 +334,7 @@ http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/78398
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ideas/images/3/3a/Logo_Disney_XD_purple.png" group-title="ប៉ុស្ត៍តុក្កតា Cartoon", DISNEY XD
 http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/78399
+
+#EXTINF:-1 Movie
+#EXTVLCOPT: sub-file=https://runp.club/Doctor-Slump.Ep1.srt?vs=1
+https://hls03.khcdn.fun/Doctor-SlumpEp1.m3u8
