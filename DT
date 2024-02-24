@@ -98,6 +98,169 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 
+#EXTINF:-1 tvg-id="3HD" tvg-name="CH3 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/lHbIKfF.png", CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/4MIQNPQ.png", TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
+
+#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/IDMQ2xe.png", CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/WypvBZ7.jpg", Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/RSQLFiU.png", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE31 HD" tvg-name="ONE31 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/9apyiI0.png", ONE31 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS" tvg-name="ThaiPBS" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OFsQwvv.png", ThaiPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8
+
+#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/50EIb6z.png", NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/mfVhuRC.png", TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8
+
+#EXTINF:-1 tvg-id="Nation TV" tvg-name="Nation TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/RULAfjb.png", Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/oxf6BRn.png", Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8
+
+#EXTINF:-1 tvg-id="Thairath TV" tvg-name="Thairath TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/ArasZJO.png", Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
+
+#EXTINF:-1 tvg-id="Mono 29" tvg-name="Mono 29" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/V4VWHiB.png", Mono 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
+
+#EXTINF:-1 tvg-id="AmarinTV HD" tvg-name="Amarin TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/S6gvvf9.png", Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTV HD" tvg-name="PPTV HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/i4t7Q0C.png", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOT HD" tvg-name="MCOT HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+
+#EXTINF:-1 tvg-id="True4U" tvg-name="True4U" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/tXb8NiE.png",True4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM 25" tvg-name="GMM 25" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/sWGT1SD.png", GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.siamnews.net/2018/05/cropped-siamnews-bw-helv-square.png" group-title="ប៉ុស្ត៍ថៃ Thailand", SIAM NEWS TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Ruc88XO.png", Boomerang Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
+#EXTINF:-1 tvg-id="T Sports 7" tvg-name="T Sports 7" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/hnfiUbK.png", T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Jfdy937.png",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JKN 18" tvg-name="JKN 18" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8
+
+#EXTINF:-1 tvg-id="7Flix" tvg-name="7Flix" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/XTC7PUr.png", 7Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/9lsXfc0.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/3V6ads0.png", TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jomyut" tvg-name="Jomyut" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg", Jomyut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx", Mangorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTB" tvg-name="CTB" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png", CTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1 TH" tvg-name="MOVIES WORLD 1 TH" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1 EN" tvg-name="MOVIES WORLD 1 EN" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 tvg-id="@TV" tvg-name="@TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Dsgpo4I.png",ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Volce TV" tvg-name="Voice TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png",Voice TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8BS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" group-title="Korea",KBS Joy
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+
+#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" tvg-id="KBSKids.kr" group-title="Korea",KBS Kids
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+
+#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" tvg-id="KBSLife.kr" group-title="Korea",KBS Life
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" tvg-id="KBSStory.kr" group-title="Korea",KBS Story
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="Korea",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="Korea", NEW KPOP
+https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="ប៉ុស្ត៍តុក្កតា Cartoon", CARTOON NETWORK
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/220564
 
