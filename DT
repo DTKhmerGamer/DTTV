@@ -303,6 +303,66 @@ http://iptvmedia.live:8080/F35336/f03f8213/3390
 #EXTINF:-1 tvg-id="" tvg-name="We TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c8ea3f9f6d4ae957097d9c7a17027bb.png" group-title="ប៉ុស្ត៍រឿង Movie",We TV
 http://iptvmedia.live:8080/F35336/f03f8213/6347
 
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="ប៉ុស្ត៍កីឡា Sports",LFC TV
+http://iptvmedia.live:8080/F35336/f03f8213/4721
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="ប៉ុស្ត៍កីឡា Sports",MUTV
+http://iptvmedia.live:8080/F35336/f03f8213/1102
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="ប៉ុស្ត៍កីឡា Sports",Premier Sports 1
+http://iptvmedia.live:8080/F35336/f03f8213/1097
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="ប៉ុស្ត៍កីឡា Sports",Premier Sports 2
+http://iptvmedia.live:8080/F35336/f03f8213/4723
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Football
+http://iptvmedia.live:8080/F35336/f03f8213/266
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Premier League
+http://iptvmedia.live:8080/F35336/f03f8213/263
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="ប៉ុស្ត៍កីឡា Sports",Edge Sport
+http://iptvmedia.live:8080/F35336/f03f8213/54012
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="ប៉ុស្ត៍កីឡា Sports",Eurosport 1
+http://iptvmedia.live:8080/F35336/f03f8213/692
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="ប៉ុស្ត៍កីឡា Sports",Eurosport 2
+http://iptvmedia.live:8080/F35336/f03f8213/1555
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/1dccb185ae350240e14ca4e8c397ba85.png" group-title="ប៉ុស្ត៍កីឡា Sports",Horse & Country TV
+http://iptvmedia.live:8080/F35336/f03f8213/5347
+#EXTINF:-1 tvg-id="" tvg-name="MotoRRacing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="ប៉ុស្ត៍កីឡា Sports",MotoRRacing
+http://iptvmedia.live:8080/F35336/f03f8213/295426
+#EXTINF:-1 tvg-id="" tvg-name="RACING TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="ប៉ុស្ត៍កីឡា Sports",RACING TV
+http://iptvmedia.live:8080/F35336/f03f8213/731
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="ប៉ុស្ត៍កីឡា Sports",RedBull TV
+http://iptvmedia.live:8080/F35336/f03f8213/85429
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Action
+http://iptvmedia.live:8080/F35336/f03f8213/268
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Arena
+http://iptvmedia.live:8080/F35336/f03f8213/267
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Cricket
+http://iptvmedia.live:8080/F35336/f03f8213/269
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports F1
+http://iptvmedia.live:8080/F35336/f03f8213/265
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Golf
+http://iptvmedia.live:8080/F35336/f03f8213/264
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Main Event
+http://iptvmedia.live:8080/F35336/f03f8213/283053
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Mix
+http://iptvmedia.live:8080/F35336/f03f8213/261
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports News
+http://iptvmedia.live:8080/F35336/f03f8213/260
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="ប៉ុស្ត៍កីឡា Sports",Sky Sports Racing
+http://iptvmedia.live:8080/F35336/f03f8213/163132
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 1
+http://iptvmedia.live:8080/F35336/f03f8213/270
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 10
+http://iptvmedia.live:8080/F35336/f03f8213/283203
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 2
+http://iptvmedia.live:8080/F35336/f03f8213/273
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 3
+http://iptvmedia.live:8080/F35336/f03f8213/271
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 4
+http://iptvmedia.live:8080/F35336/f03f8213/298471
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 7" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 7
+http://iptvmedia.live:8080/F35336/f03f8213/279255
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 8
+http://iptvmedia.live:8080/F35336/f03f8213/7435
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="ប៉ុស្ត៍កីឡា Sports",TNT Sports 9
+http://iptvmedia.live:8080/F35336/f03f8213/7438
 #EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dbb84bc5c8ad17cb804dc0508b3fbb46.png" group-title="ប៉ុស្ត៍កីឡា Sports",ACC Network
 http://iptvmedia.live:8080/F35336/f03f8213/29664
 #EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/207f229a260b98e94d515dae160a4c48.png" group-title="ប៉ុស្ត៍កីឡា Sports",Adrenalina Sports Network
