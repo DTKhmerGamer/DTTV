@@ -689,107 +689,99 @@ http://iptvmedia.live:8080/F35336/f03f8213/283477
 #EXTINF:-1 tvg-id="" tvg-name="餘姚姚江文化" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/c5a6dab2d73282ae331f7802eed08e58.png" group-title="ប៉ុស្ត៍ចិន China",餘姚姚江文化
 http://iptvmedia.live:8080/F35336/f03f8213/283479
 
-#EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" tvg-id="CTVNewsChannel.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",CTV News Channel (中視新聞台) Ⓨ
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-id="" tvg-name="Good 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/753a0c9e32bd10d285a839ebe6fee141.png" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Good 2
+http://iptvmedia.live:8080/F35336/f03f8213/284246
+#EXTINF:-1 tvg-id="" tvg-name="Good TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/330b2d1bc23156ca320dd2ecb6a68cc2.png" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Good TV
+http://iptvmedia.live:8080/F35336/f03f8213/284247
+#EXTINF:-1 tvg-id="" tvg-name="Supreme Master TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/14b6c86216991a3cf4f6c8a4a9ee80ce.jpg" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Supreme Master TV
+http://iptvmedia.live:8080/F35336/f03f8213/284727
+#EXTINF:-1 tvg-id="" tvg-name="Wei Xin TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6ec970069afd0ccb666132f18c4eb3d1.png" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Wei Xin TV
+http://iptvmedia.live:8080/F35336/f03f8213/299475
 
-#EXTINF:-1 tvg-name="PTS Taigi (公視台語台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png" tvg-id="PTSTaigi.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",PTS Taigi (公視台語台) Ⓨ Ⓖ
-https://www.youtube.com/watch?v=6KlRR_DGhmI
-
-#EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/640px-Taiwan_Plus_logo.svg.png" tvg-id="TaiwanPlus.tv" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",TaiwanPlus Ⓨ
-https://www.youtube.com/watch?v=dZp87qnWelE
-
-#EXTINF:-1 tvg-name="民視無線台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/640px-FTV_HD_Logo.svg.png" tvg-id="FTV.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",民視無線台
-http://seb.sason.top/ptv/ftv.php?id=ms
-
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",FTV One (民視第一台)
-http://seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:-1 tvg-name="FTV News (民視新聞台) Ⓨ" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="FTVNews.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",FTV News (民視新聞台) Ⓨ
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" tvg-logo="https://i.imgur.com/p108I5g.png" tvg-id="FTVTaiwan.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",FTV Taiwan (民視台灣台)
-http://seb.sason.top/ptv/ftv.php?id=tw
-
-#EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" tvg-id="TTV.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
-https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
-#EXTINF:-1 tvg-name="TTV News (台視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",TTV News (台視新聞台) Ⓨ
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-#EXTINF:-1 tvg-name="Congress Channel 1 Ⓨ" tvg-logo="https://i.imgur.com/0dVlvsz.png" tvg-id="CongressChannel1.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Congress Channel 1 Ⓨ
-https://www.youtube.com/watch?v=4HysYHJ6GkY
-
-#EXTINF:-1 tvg-name="Congress Channel 2 Ⓨ" tvg-logo="https://i.imgur.com/htGr996.png" tvg-id="CongressChannel2.tw" group-title="ប៉ុស្ត៍តៃវ៉ាន់ Taiwan",Congress Channel 2 Ⓨ
-https://www.youtube.com/watch?v=RAP4h3q6_Sg
-
-#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS 1 Ⓢ
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS 2 Ⓢ
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" tvg-id="MBCTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",MBC TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",SBS TV
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-
-#EXTINF:-1 tvg-name="KNN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/512px-KNN_logo.svg.png" tvg-id="KNNTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KNN TV
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBC TV
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TJB TV" tvg-logo="https://i.imgur.com/q9Nx801.png" tvg-id="TJBTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",TJB TV
-http://1.245.74.5:1935/live/tv/.m3u8
-
-#EXTINF:-1 tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/512px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",UBC TV
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/512px-Jtv_logo.svg.png" tvg-id="JTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",JTV TV
-https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" tvg-id="CJBTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",CJB TV
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" tvg-id="JIBSTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",JIBS TV
-http://123.140.197.22/stream/1/play.m3u8
-
-#EXTINF:-1 tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" tvg-id="OBSGyeonginTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",OBS TV
-https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
-
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-id="EBSKids.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS Kids Ⓢ
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" tvg-id="EBSPlus1.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS Plus 1 Ⓢ
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" tvg-logo="https://i.imgur.com/mgFRZFq.png" tvg-id="EBSPlus2.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS Plus 2 Ⓢ
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="EBSEnglish.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",EBS English Ⓢ
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" tvg-id="KBSDrama.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS Drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-
-#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS Joy
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-
-#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" tvg-id="KBSKids.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-
-#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" tvg-id="KBSLife.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS Life
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-
-#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" tvg-id="KBSStory.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS Story
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="ប៉ុស្ត៍កូរ៉េ Korea",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",AniPlus
+http://iptvmedia.live:8080/F35336/f03f8213/157611
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Arirang
+http://iptvmedia.live:8080/F35336/f03f8213/121941
+#EXTINF:-1 tvg-id="" tvg-name="BBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/46602ef7549d0788e992684ff772e5e3.jpg" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",BBS
+http://iptvmedia.live:8080/F35336/f03f8213/78446
+#EXTINF:-1 tvg-id="" tvg-name="CGN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1b15161f49eaca4a237e3bf519201d5d.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",CGN TV
+http://iptvmedia.live:8080/F35336/f03f8213/166403
+#EXTINF:-1 tvg-id="" tvg-name="CPBC TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",CPBC TV
+http://iptvmedia.live:8080/F35336/f03f8213/78450
+#EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/fc5c69b056764a7e5fa484f6091fb973.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",CTS
+http://iptvmedia.live:8080/F35336/f03f8213/78455
+#EXTINF:-1 tvg-id="" tvg-name="EBS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d483d641f5c5f3bfc42c5e67664c9c48.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS 1
+http://iptvmedia.live:8080/F35336/f03f8213/78454
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e4f53be79d81a7e6440cb68baeabc13.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS 2
+http://iptvmedia.live:8080/F35336/f03f8213/78449
+#EXTINF:-1 tvg-id="" tvg-name="EBS e" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e331ca70f48633775cb0c37420c02f26.jfif" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS e
+http://iptvmedia.live:8080/F35336/f03f8213/78447
+#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7ec49e6b70caad2eafeeefc980bec974.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS Kids
+http://iptvmedia.live:8080/F35336/f03f8213/78452
+#EXTINF:-1 tvg-id="" tvg-name="EBS Plus 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/3aa3181d37867940eb8ed2861db6c2b1.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS Plus 1
+http://iptvmedia.live:8080/F35336/f03f8213/145044
+#EXTINF:-1 tvg-id="" tvg-name="EBS Plus 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0efaa79acdfa5b0749256a5d2a24d067.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",EBS Plus 2
+http://iptvmedia.live:8080/F35336/f03f8213/145045
+#EXTINF:-1 tvg-id="" tvg-name="Edaily TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/3effcfa5d04153da3ac5f9ca3bc334f4.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Edaily TV
+http://iptvmedia.live:8080/F35336/f03f8213/78458
+#EXTINF:-1 tvg-id="" tvg-name="FGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/270ef93c6f56965e8563661eec41e8e1.jfif" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",FGTV
+http://iptvmedia.live:8080/F35336/f03f8213/78451
+#EXTINF:-1 tvg-id="" tvg-name="GCN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/20c1fd47ba6a03aec940aed24375bb98.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",GCN
+http://iptvmedia.live:8080/F35336/f03f8213/78457
+#EXTINF:-1 tvg-id="" tvg-name="GS Shop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c870ad5e3347bfa505ee738825678a9f.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",GS Shop
+http://iptvmedia.live:8080/F35336/f03f8213/78466
+#EXTINF:-1 tvg-id="" tvg-name="Gugak FM (국악방송)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a873a039b078d7856a0f8a0a0e5ea951.jpg" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Gugak FM (국악방송)
+http://iptvmedia.live:8080/F35336/f03f8213/283978
+#EXTINF:-1 tvg-id="" tvg-name="Home & Shopping" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/17054534f6e7b678cbe5d21f76ad8def.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Home & Shopping
+http://iptvmedia.live:8080/F35336/f03f8213/78461
+#EXTINF:-1 tvg-id="" tvg-name="Hyundai Home Shopping" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2fe7d82ef30a1a6e437639e4adae08be.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Hyundai Home Shopping
+http://iptvmedia.live:8080/F35336/f03f8213/294662
+#EXTINF:-1 tvg-id="" tvg-name="IFM 90.7 MHz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ad2ca4b8f6250da0e1a24b802b3e2323.jpg" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",IFM 90.7 MHz
+http://iptvmedia.live:8080/F35336/f03f8213/299478
+#EXTINF:-1 tvg-id="" tvg-name="KBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/405dc8d455972dfc4ce0934eec517d21.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",KBC
+http://iptvmedia.live:8080/F35336/f03f8213/166089
+#EXTINF:-1 tvg-id="" tvg-name="KBS Live Dokdo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/8b6212aa05d4af12ef100ccac51eb932.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",KBS Live Dokdo
+http://iptvmedia.live:8080/F35336/f03f8213/284632
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/bba062dc58f6eea5230447581f362846.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",KBS World
+http://iptvmedia.live:8080/F35336/f03f8213/157475
+#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/aec9a1e6e1aa512b520832f06f8a3a99.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",KCTV
+http://iptvmedia.live:8080/F35336/f03f8213/284634
+#EXTINF:-1 tvg-id="" tvg-name="KFN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e8e2af693b88299ae96330bb138d5418.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",KFN TV
+http://iptvmedia.live:8080/F35336/f03f8213/78472
+#EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c225d1d803382469023328e117bea5e3.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",Kplus
+http://iptvmedia.live:8080/F35336/f03f8213/157567
+#EXTINF:-1 tvg-id="" tvg-name="MBC Yeosu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/c9a663041b4245ea7be8e0e3b6c2403d.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",MBC Yeosu
+http://iptvmedia.live:8080/F35336/f03f8213/284636
+#EXTINF:-1 tvg-id="" tvg-name="MTN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c486b77547a25eb6eb7a9344d206576e.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",MTN
+http://iptvmedia.live:8080/F35336/f03f8213/78480
+#EXTINF:-1 tvg-id="" tvg-name="NBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1d37778517cde4c15a89a8dd98824537.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",NBS
+http://iptvmedia.live:8080/F35336/f03f8213/284638
+#EXTINF:-1 tvg-id="" tvg-name="NHTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/81b69c57380a34515fa3990bcd72485d.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",NHTV
+http://iptvmedia.live:8080/F35336/f03f8213/294663
+#EXTINF:-1 tvg-id="" tvg-name="NS Home Shopping" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/dea1c123bbb509c9479d92ee584ae90f.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",NS Home Shopping
+http://iptvmedia.live:8080/F35336/f03f8213/78483
+#EXTINF:-1 tvg-id="" tvg-name="SBS Golf" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS Golf
+http://iptvmedia.live:8080/F35336/f03f8213/299934
+#EXTINF:-1 tvg-id="" tvg-name="SBS JIBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/edf85c25d91c33f8e9c607bced9bb6f7.jpg" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS JIBS
+http://iptvmedia.live:8080/F35336/f03f8213/299803
+#EXTINF:-1 tvg-id="" tvg-name="SBS M" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/81ee5fcf6e674ef87da6f9a4d9d47221.jpg" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS M
+http://iptvmedia.live:8080/F35336/f03f8213/299935
+#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS Plus
+http://iptvmedia.live:8080/F35336/f03f8213/145051
+#EXTINF:-1 tvg-id="" tvg-name="SBS Sport" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS Sport
+http://iptvmedia.live:8080/F35336/f03f8213/299937
+#EXTINF:-1 tvg-id="" tvg-name="SBS TJB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/5198ff4da916a74c41239c0abdd0068f.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS TJB
+http://iptvmedia.live:8080/F35336/f03f8213/284640
+#EXTINF:-1 tvg-id="" tvg-name="SBS UBC" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",SBS UBC
+http://iptvmedia.live:8080/F35336/f03f8213/78485
+#EXTINF:-1 tvg-id="" tvg-name="TV Work Net" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/4d0dd399c2a9bbe9a51479c31aad0ad8.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",TV Work Net
+http://iptvmedia.live:8080/F35336/f03f8213/284641
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c6a5e644fa00bde3ddf02f78b8ca44b9.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",TVN
+http://iptvmedia.live:8080/F35336/f03f8213/157476
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9f981ae25467aa645e1cde4f95eed4fe.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",TVN Movies
+http://iptvmedia.live:8080/F35336/f03f8213/157520
+#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b1e4ac6a64d2df4967396d755b80913f.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",YTN
+http://iptvmedia.live:8080/F35336/f03f8213/145048
 
 #EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="ប៉ុស្ត៍កូរ៉េ Korea", NEW KPOP
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
