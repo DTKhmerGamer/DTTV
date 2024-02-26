@@ -1749,7 +1749,7 @@ http://iptvmedia.live:8080/F35336/f03f8213/6376
 http://iptvmedia.live:8080/F35336/f03f8213/13010
 #EXTINF:-1 tvg-id="" tvg-name="UP TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/b0344a599925f97936b6368864712e6a.png"group-title="ប៉ុស្ត៍ឯកសារ Documentary",UP TV
 http://iptvmedia.live:8080/F35336/f03f8213/200160
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26c5334f6379a086e510b35b01f6bd47.png" group-title="USA ➾ Nature",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26c5334f6379a086e510b35b01f6bd47.png" group-title="ប៉ុស្ត៍ឯកសារ Documentary",ANIMAL PLANET
 http://iptvmedia.live:8080/F35336/f03f8213/6329
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET Europe" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/de091ea913aab9e270d8418df2fe4176.png" group-title="USA ➾ Nature",ANIMAL PLANET Europe
 http://iptvmedia.live:8080/F35336/f03f8213/20320
@@ -1846,8 +1846,6 @@ http://iptvmedia.live:8080/F35336/f03f8213/1598
 http://iptvmedia.live:8080/F35336/f03f8213/1090
 #EXTINF:-1 tvg-id="" tvg-name="Tiny Pop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" group-title="ប៉ុស្ត៍តុក្កតា Kids",Tiny Pop
 http://iptvmedia.live:8080/F35336/f03f8213/264542
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=256&q=75" group-title="ប៉ុស្ត៍កីឡា Sport", BEIN Sports News
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/2296
 
 #EXTINF:-1 tvg-id="" tvg-name="13 Siam Thai" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1d6f3e53d95ce8af4dc7e73ce2f844dc.png" group-title="ប៉ុស្ត៍ថៃ Thailand",13 Siam Thai
 http://iptvmedia.live:8080/F35336/f03f8213/146708
