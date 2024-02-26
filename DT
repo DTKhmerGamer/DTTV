@@ -98,153 +98,130 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 
-#EXTINF:-1 tvg-id="3HD" tvg-name="CH3 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/lHbIKfF.png", CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
-
-#EXTINF:-1 tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/4MIQNPQ.png", TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
-
-#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/IDMQ2xe.png", CH7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/WypvBZ7.jpg", Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/RSQLFiU.png", CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch8/index.m3u8
-
-#EXTINF:-1 tvg-id="ONE31 HD" tvg-name="ONE31 HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/9apyiI0.png", ONE31 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
-
-#EXTINF:-1 tvg-id="ThaiPBS" tvg-name="ThaiPBS" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OFsQwvv.png", ThaiPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8
-
-#EXTINF:-1 tvg-id="NBT" tvg-name="NBT" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/50EIb6z.png", NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
-
-#EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/mfVhuRC.png", TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8
-
-#EXTINF:-1 tvg-id="Nation TV" tvg-name="Nation TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/RULAfjb.png", Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/index.m3u8
-
-#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/oxf6BRn.png", Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/index.m3u8
-
-#EXTINF:-1 tvg-id="Thairath TV" tvg-name="Thairath TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/ArasZJO.png", Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
-
-#EXTINF:-1 tvg-id="Mono 29" tvg-name="Mono 29" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/V4VWHiB.png", Mono 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
-
-#EXTINF:-1 tvg-id="AmarinTV HD" tvg-name="Amarin TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/S6gvvf9.png", Amarin TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
-
-#EXTINF:-1 tvg-id="PPTV HD" tvg-name="PPTV HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/i4t7Q0C.png", PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="MCOT HD" tvg-name="MCOT HD" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
-
-#EXTINF:-1 tvg-id="True4U" tvg-name="True4U" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/tXb8NiE.png",True4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8
-
-#EXTINF:-1 tvg-id="GMM 25" tvg-name="GMM 25" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/sWGT1SD.png", GMM 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.siamnews.net/2018/05/cropped-siamnews-bw-helv-square.png" group-title="ប៉ុស្ត៍ថៃ Thailand", SIAM NEWS TV
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-
-#EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Ruc88XO.png", Boomerang Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
-
-#EXTINF:-1 tvg-id="T Sports 7" tvg-name="T Sports 7" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/hnfiUbK.png", T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
-
-#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Jfdy937.png",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
-
-#EXTINF:-1 tvg-id="JKN 18" tvg-name="JKN 18" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8
-
-#EXTINF:-1 tvg-id="7Flix" tvg-name="7Flix" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/XTC7PUr.png", 7Flix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-
-#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/9lsXfc0.png", BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
-
-#EXTINF:-1 tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/3V6ads0.png", TVB Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Jomyut" tvg-name="Jomyut" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg", Jomyut
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx", Mangorn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CTB" tvg-name="CTB" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png", CTB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MOVIES WORLD 1 TH" tvg-name="MOVIES WORLD 1 TH" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
-
-#EXTINF:-1 tvg-id="MOVIES WORLD 1 EN" tvg-name="MOVIES WORLD 1 EN" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 1 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-
-#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
-
-#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/OsD28mZ.jpg", MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-
-#EXTINF:-1 tvg-id="@TV" tvg-name="@TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="https://i.imgur.com/Dsgpo4I.png",ETV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Volce TV" tvg-name="Voice TV" group-title="ប៉ុស្ត៍ថៃ Thailand" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png",Voice TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8BS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" group-title="Korea",KBS Joy
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="13 Siam Thai" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1d6f3e53d95ce8af4dc7e73ce2f844dc.png" group-title="ប៉ុស្ត៍ថៃ Thailand",13 Siam Thai
+http://iptvmedia.live:8080/F35336/f03f8213/146708
+#EXTINF:-1 tvg-id="" tvg-name="ALTV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" group-title="ប៉ុស្ត៍ថៃ Thailand",ALTV 4
+http://iptvmedia.live:8080/F35336/f03f8213/193236
+#EXTINF:-1 tvg-id="" tvg-name="Amarin 34" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Amarin 34
+http://iptvmedia.live:8080/F35336/f03f8213/146703
+#EXTINF:-1 tvg-id="" tvg-name="Bayon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Bayon TV
+http://iptvmedia.live:8080/F35336/f03f8213/23852
+#EXTINF:-1 tvg-id="" tvg-name="BBTV Channel 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="ប៉ុស្ត៍ថៃ Thailand",BBTV Channel 7
+http://iptvmedia.live:8080/F35336/f03f8213/23853
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Cartoon Network
+http://iptvmedia.live:8080/F35336/f03f8213/172166
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" group-title="ប៉ុស្ត៍ថៃ Thailand",Channel 3
+http://iptvmedia.live:8080/F35336/f03f8213/266866
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/157a5877321833c9699a238fb977f428.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Channel 8
+http://iptvmedia.live:8080/F35336/f03f8213/281631
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/78cc11f16cb517d5f98a124aba17ec73.png" group-title="ប៉ុស្ត៍ថៃ Thailand",CNBC
+http://iptvmedia.live:8080/F35336/f03f8213/162533
+#EXTINF:-1 tvg-id="" tvg-name="CTB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="ប៉ុស្ត៍ថៃ Thailand",CTB TV
+http://iptvmedia.live:8080/F35336/f03f8213/23858
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Discovery Asia
+http://iptvmedia.live:8080/F35336/f03f8213/264824
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5aedbb90378d997c50b0a3c2f66bed7d.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 1
+http://iptvmedia.live:8080/F35336/f03f8213/163375
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/701b5c419138fabf0bc71282abead28f.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 10
+http://iptvmedia.live:8080/F35336/f03f8213/163384
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 11
+http://iptvmedia.live:8080/F35336/f03f8213/163385
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 12" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7db860b802219750cac31a45910f9982.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 12
+http://iptvmedia.live:8080/F35336/f03f8213/163386
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 13" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 13
+http://iptvmedia.live:8080/F35336/f03f8213/163387
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 14" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ae7da1a6848ba39405fa468a5482ff68.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 14
+http://iptvmedia.live:8080/F35336/f03f8213/163388
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 15" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a5ece1f2633cf02e4f282b4580330aa2.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 15
+http://iptvmedia.live:8080/F35336/f03f8213/163389
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 2
+http://iptvmedia.live:8080/F35336/f03f8213/163376
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 3
+http://iptvmedia.live:8080/F35336/f03f8213/163377
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 4
+http://iptvmedia.live:8080/F35336/f03f8213/163378
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 5
+http://iptvmedia.live:8080/F35336/f03f8213/163379
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 6
+http://iptvmedia.live:8080/F35336/f03f8213/163380
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 7
+http://iptvmedia.live:8080/F35336/f03f8213/163381
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 8
+http://iptvmedia.live:8080/F35336/f03f8213/163382
+#EXTINF:-1 tvg-id="" tvg-name="DL TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DL TV 9
+http://iptvmedia.live:8080/F35336/f03f8213/163383
+#EXTINF:-1 tvg-id="" tvg-name="DMC TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍ថៃ Thailand",DMC TV
+http://iptvmedia.live:8080/F35336/f03f8213/299487
+#EXTINF:-1 tvg-id="" tvg-name="Drama Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d93b7bd40eec931474545e65dfd2a244.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Drama Channel
+http://iptvmedia.live:8080/F35336/f03f8213/275989
+#EXTINF:-1 tvg-id="" tvg-name="ETV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ec3dcc4f99f58587fbcd43a442aa3c14.png" group-title="ប៉ុស្ត៍ថៃ Thailand",ETV
+http://iptvmedia.live:8080/F35336/f03f8213/147245
+#EXTINF:-1 tvg-id="" tvg-name="Fast & FunBox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e9cc9f108bb21a76bd594dc65cb79050.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Fast & FunBox
+http://iptvmedia.live:8080/F35336/f03f8213/281630
+#EXTINF:-1 tvg-id="" tvg-name="Global Buddhist Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Global Buddhist Network
+http://iptvmedia.live:8080/F35336/f03f8213/299375
+#EXTINF:-1 tvg-id="" tvg-name="GMM 25" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7ef529237f7d99c737aab51df40ae283.png" group-title="ប៉ុស្ត៍ថៃ Thailand",GMM 25
+http://iptvmedia.live:8080/F35336/f03f8213/146729
+#EXTINF:-1 tvg-id="" tvg-name="Good Idea TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Good Idea TV
+http://iptvmedia.live:8080/F35336/f03f8213/146728
+#EXTINF:-1 tvg-id="" tvg-name="Greenwave" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8a5b1a79a678728a6de2acee804062ed.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Greenwave
+http://iptvmedia.live:8080/F35336/f03f8213/146725
+#EXTINF:-1 tvg-id="" tvg-name="Happy TV 65" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b98da98dcd99746f2df92827b7525441.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Happy TV 65
+http://iptvmedia.live:8080/F35336/f03f8213/145034
+#EXTINF:-1 tvg-id="" tvg-name="Major Channel Mix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/59c32359b36af431a2ddf6b459d8b00b.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Major Channel Mix
+http://iptvmedia.live:8080/F35336/f03f8213/158607
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" group-title="ប៉ុស្ត៍ថៃ Thailand",MCOT HD
+http://iptvmedia.live:8080/F35336/f03f8213/145029
+#EXTINF:-1 tvg-id="" tvg-name="Mono 29" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Mono 29
+http://iptvmedia.live:8080/F35336/f03f8213/146760
+#EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2d88189579ae452a99fcab007506d80b.jpeg" group-title="ប៉ុស្ត៍ថៃ Thailand",Nation TV
+http://iptvmedia.live:8080/F35336/f03f8213/146781
+#EXTINF:-1 tvg-id="" tvg-name="NBT TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f8fee14f8a8ea3489b96f8ed9b65695e.png" group-title="ប៉ុស្ត៍ថៃ Thailand",NBT TV
+http://iptvmedia.live:8080/F35336/f03f8213/23886
+#EXTINF:-1 tvg-id="" tvg-name="New 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="ប៉ុស្ត៍ថៃ Thailand",New 18
+http://iptvmedia.live:8080/F35336/f03f8213/15004
+#EXTINF:-1 tvg-id="" tvg-name="News 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="ប៉ុស្ត៍ថៃ Thailand",News 1
+http://iptvmedia.live:8080/F35336/f03f8213/174663
+#EXTINF:-1 tvg-id="" tvg-name="One 31" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/491ca32875193d61a9de5c5b04651e08.png" group-title="ប៉ុស្ត៍ថៃ Thailand",One 31
+http://iptvmedia.live:8080/F35336/f03f8213/23892
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD 36" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" group-title="ប៉ុស្ត៍ថៃ Thailand",PPTV HD 36
+http://iptvmedia.live:8080/F35336/f03f8213/281639
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍ថៃ Thailand",SBT TV
+http://iptvmedia.live:8080/F35336/f03f8213/299488
+#EXTINF:-1 tvg-id="" tvg-name="Thai Channel 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Thai Channel 8
+http://iptvmedia.live:8080/F35336/f03f8213/146796
+#EXTINF:-1 tvg-id="" tvg-name="Thai Parliament TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="ប៉ុស្ត៍ថៃ Thailand",Thai Parliament TV
+http://iptvmedia.live:8080/F35336/f03f8213/285565
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Thai PBS 3
+http://iptvmedia.live:8080/F35336/f03f8213/145027
+#EXTINF:-1 tvg-id="" tvg-name="Thai TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Thai TV 5
+http://iptvmedia.live:8080/F35336/f03f8213/162537
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Thairath TV 32
+http://iptvmedia.live:8080/F35336/f03f8213/23909
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="ប៉ុស្ត៍ថៃ Thailand",True Premiere Football 1
+http://iptvmedia.live:8080/F35336/f03f8213/162591
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="ប៉ុស្ត៍ថៃ Thailand",True Premiere Football 2
+http://iptvmedia.live:8080/F35336/f03f8213/162592
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/43648065b507b5ddf80627c4074eec0c.png" group-title="ប៉ុស្ត៍ថៃ Thailand",True Sport 3
+http://iptvmedia.live:8080/F35336/f03f8213/301871
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="ប៉ុស្ត៍ថៃ Thailand",True Sport 4
+http://iptvmedia.live:8080/F35336/f03f8213/285569
+#EXTINF:-1 tvg-id="" tvg-name="TrueVisions" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/50acfdca2c374a6bee214aac68d558e7.png" group-title="ប៉ុស្ត៍ថៃ Thailand",TrueVisions
+http://iptvmedia.live:8080/F35336/f03f8213/146806
+#EXTINF:-1 tvg-id="" tvg-name="Umm TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Umm TV
+http://iptvmedia.live:8080/F35336/f03f8213/158644
+#EXTINF:-1 tvg-id="" tvg-name="V2H2 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c2e56e3edee32f61fa3f82f5c5a9fc49.jfif" group-title="ប៉ុស្ត៍ថៃ Thailand",V2H2 TV
+http://iptvmedia.live:8080/F35336/f03f8213/195636
+#EXTINF:-1 tvg-id="" tvg-name="V2H9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/3cd16ddfdcc168170588d816a5645088.png" group-title="ប៉ុស្ត៍ថៃ Thailand",V2H9
+http://iptvmedia.live:8080/F35336/f03f8213/276070
+#EXTINF:-1 tvg-id="" tvg-name="White Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="ប៉ុស្ត៍ថៃ Thailand",White Channel
+http://iptvmedia.live:8080/F35336/f03f8213/23908
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint 23" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/feb6a0a6045bfde171e1292fb7fd86c1.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Workpoint 23
+http://iptvmedia.live:8080/F35336/f03f8213/23405
+#EXTINF:-1 tvg-id="" tvg-name="Yateem TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" group-title="ប៉ុស្ត៍ថៃ Thailand",Yateem TV
+http://iptvmedia.live:8080/F35336/f03f8213/158801
+#EXTINF:-1 tvg-id="" tvg-name="Zabb Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1b2c5cc0bebe058f8aacc2f6b95f262.png" group-title="ប៉ុស្ត៍ថៃ Thailand",Zabb Channel
+http://iptvmedia.live:8080/F35336/f03f8213/158622
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ប៉ុស្ត៍វៀតណាម Vietnam" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 http://str1.cvtv.xyz/VTV1HD?token=live
