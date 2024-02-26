@@ -783,8 +783,6 @@ http://iptvmedia.live:8080/F35336/f03f8213/157520
 #EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b1e4ac6a64d2df4967396d755b80913f.png" group-title="ប៉ុស្ត៍កូរ៉េ South Korea",YTN
 http://iptvmedia.live:8080/F35336/f03f8213/145048
 
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="ប៉ុស្ត៍កូរ៉េ Korea", NEW KPOP
-https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Baby TV
 http://iptvmedia.live:8080/F35336/f03f8213/1129
 #EXTINF:-1 tvg-id="" tvg-name="BabyFirst TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/e620a2355e3980b7a21df9ac338f1789.jpg" group-title="ប៉ុស្ត៍តុក្កតា Kids",BabyFirst TV
