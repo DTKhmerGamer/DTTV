@@ -18,9 +18,12 @@ http://203.80.165.14/stream/channelid/966549443?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channel/24907eda7482b7ea5704d87ca7b6cb2c?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", CTN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://i.ibb.co/SNgsgTB/DTTV.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", CTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/536374439?profile=pass
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTRED TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", DTRED TV
+https://cf01b8bf8918.entrypoint.cloud.wowza.com/app-2084458F/ngrp:72a8cfa5_all/playlist.m3u8
 
 #EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="ប៉ុស្ត៏ខ្ឬែរ Cambodia", BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
