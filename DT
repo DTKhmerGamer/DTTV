@@ -21,7 +21,7 @@ http://203.80.165.14/stream/channel/24907eda7482b7ea5704d87ca7b6cb2c?profile=web
 http://203.80.165.14/stream/channelid/536374439?profile=pass
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTRED TV" tvg-logo="https://i.ibb.co/SNgsgTB/DTTV.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", DTRED TV
-https://tx.flv.nimo.tv/live/su1639517221492r916ac31b897639a2effe77669709fb0c.flv?wsSecret=a32c4f70a271c46002231ae34d09df4f&wsTime=65de1ce1&seqid=3348572461978&ctype=nimo_media_web&ver=1&appid=81&tp=1709055201119&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1639997142202&t=100&sv=2310101948&sdk_sid=1709055240480
+https://tx.flv.nimo.tv/live/su1639517221492r916ac31b897639a2effe77669709fb0c.flv?wsSecret=9888c4c853b6fb0117e1ebde64f8d819&wsTime=65de1d8c&seqid=3348572636298&ctype=nimo_media_web&ver=1&appid=81&tp=1709055372294&needwm=0&dMod=mseh-0&sdkPcdn=1_1&u=1639997142202&t=100&sv=2310101948&sdk_sid=1709055414796
 
 #EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
