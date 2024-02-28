@@ -3319,3 +3319,6 @@ http://iptvmedia.live:8080/F35336/f03f8213/297499
 http://iptvmedia.live:8080/F35336/f03f8213/157550
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/5eabe0c961429618554b9009d9a2fe6a.png" group-title="ប៉ុស្ត៍ម៉ាឡេស៊ី Malaysia",ZooMoo
 http://iptvmedia.live:8080/F35336/f03f8213/285308
+
+#EXTINF:-1 tvg-ID="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Movies: Action",Shang-Chi and the Legend of the Ten Rings (2021)
+http://homeplex.live:8080/movie/q3XcbpTgetcP/hsdfjgsdyfduf/88740.mkv
