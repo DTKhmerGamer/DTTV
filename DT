@@ -98,76 +98,58 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="5 Star max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",5 Star max
-http://iptvmedia.live:8080/F35336/f03f8213/2291
-#EXTINF:-1 tvg-id="" tvg-name="ABC Spark" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e3937e4ce4c670193e9f7cd218e17049.png" group-title="ប៉ុស្ត៍រឿង Movie",ABC Spark
-http://iptvmedia.live:8080/F35336/f03f8213/35520
-#EXTINF:-1 tvg-id="" tvg-name="ActionMax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d8eb5f96e6d74065d1d5d3d1371e43fd.png" group-title="ប៉ុស្ត៍រឿង Movie",ActionMax
-http://iptvmedia.live:8080/F35336/f03f8213/2274
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 5 Star Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax 5 Star Max
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10700
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax ActionMax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d8eb5f96e6d74065d1d5d3d1371e43fd.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax ActionMax
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10720
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png" group-title="ប៉ុស្ត៍រឿង Movie",AMC
-http://iptvmedia.live:8080/F35336/f03f8213/751
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/5229
 #EXTINF:-1 tvg-id="" tvg-name="BBC America" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a5c4fc8ce29f59f0a5cca12752f4cbca.png" group-title="ប៉ុស្ត៍រឿង Movie",BBC America
-http://iptvmedia.live:8080/F35336/f03f8213/2277
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10697
 #EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c2159c07b7e7e558c2e9bef766df71c6.png" group-title="ប៉ុស្ត៍រឿង Movie",Bravo
-http://iptvmedia.live:8080/F35336/f03f8213/2282
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10701
 #EXTINF:-1 tvg-id="" tvg-name="Buzzr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/1ca3be8700d967a30fda3dfb823c6baf.png" group-title="ប៉ុស្ត៍រឿង Movie",Buzzr
-http://iptvmedia.live:8080/F35336/f03f8213/15114
-#EXTINF:-1 tvg-id="" tvg-name="Cine Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/10994c26a1a6817228a4a5cee626740f.webp" group-title="ប៉ុស្ត៍រឿង Movie",Cine Life
-http://iptvmedia.live:8080/F35336/f03f8213/298472
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/5244
 #EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/51183f92d3c9f7f237251191558264e6.png" group-title="ប៉ុស្ត៍រឿង Movie",CMT
-http://iptvmedia.live:8080/F35336/f03f8213/2294
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10718
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/21ce2e8a7702b1079957fbf5fcf9bd38.png" group-title="ប៉ុស្ត៍រឿង Movie",Comedy Central
-http://iptvmedia.live:8080/F35336/f03f8213/754
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10692
 #EXTINF:-1 tvg-id="" tvg-name="Comet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/522dcffba02379c064ec85f72c8e4cd5.png" group-title="ប៉ុស្ត៍រឿង Movie",Comet
-http://iptvmedia.live:8080/F35336/f03f8213/6497
-#EXTINF:-1 tvg-id="" tvg-name="Dove" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/bbfc32f773c010a055c108c74d3f8511.jpeg" group-title="ប៉ុស្ត៍រឿង Movie",Dove
-http://iptvmedia.live:8080/F35336/f03f8213/296921
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22915
 #EXTINF:-1 tvg-id="" tvg-name="Epix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0569998418821ecce4929fe1057c8749.png" group-title="ប៉ុស្ត៍រឿង Movie",Epix
-http://iptvmedia.live:8080/F35336/f03f8213/15096
-#EXTINF:-1 tvg-id="" tvg-name="Epix 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8bd932dff55c15e19dd262dacb5312f3.png" group-title="ប៉ុស្ត៍រឿង Movie",Epix 2
-http://iptvmedia.live:8080/F35336/f03f8213/6372
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22908
 #EXTINF:-1 tvg-id="" tvg-name="Epix Drive In" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8280932ffc579846a2904f0a8af764c0.png" group-title="ប៉ុស្ត៍រឿង Movie",Epix Drive In
-http://iptvmedia.live:8080/F35336/f03f8213/35054
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/30733
 #EXTINF:-1 tvg-id="" tvg-name="Epix Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/08b276db9c9a66bb2793a632e7ab0801.png" group-title="ប៉ុស្ត៍រឿង Movie",Epix Hits
-http://iptvmedia.live:8080/F35336/f03f8213/6357
-#EXTINF:-1 tvg-id="" tvg-name="Filmstream" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/859b08aabcfccbd24fe2a56b2344dea0.jpeg" group-title="ប៉ុស្ត៍រឿង Movie",Filmstream
-http://iptvmedia.live:8080/F35336/f03f8213/281940
-#EXTINF:-1 tvg-id="" tvg-name="Folk TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/6d4d9398798e17c19fdee8faae5e0027.png" group-title="ប៉ុស្ត៍រឿង Movie",Folk TV
-http://iptvmedia.live:8080/F35336/f03f8213/197731
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22907
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e1f7476fbe35270653143a6a21389a85.png" group-title="ប៉ុស្ត៍រឿង Movie",FX
-http://iptvmedia.live:8080/F35336/f03f8213/758
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10728
 #EXTINF:-1 tvg-id="" tvg-name="FX Movie Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ef8054c816acf6206e7a8287af61f43b.png" group-title="ប៉ុស្ត៍រឿង Movie",FX Movie Channel
-http://iptvmedia.live:8080/F35336/f03f8213/39873
-#EXTINF:-1 tvg-id="" tvg-name="FXM Retro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f959d31a8383b988aa09693a30a68f96.jpg" group-title="ប៉ុស្ត៍រឿង Movie",FXM Retro
-http://iptvmedia.live:8080/F35336/f03f8213/5840
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22905
 #EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0cf4f7d3c0bfe1900e79a952e11147aa.png" group-title="ប៉ុស្ត៍រឿង Movie",FXX
-http://iptvmedia.live:8080/F35336/f03f8213/2330
-#EXTINF:-1 tvg-id="" tvg-name="GAC Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/82093475f229278c34bb85f394522e95.svg" group-title="ប៉ុស្ត៍រឿង Movie",GAC Family
-http://iptvmedia.live:8080/F35336/f03f8213/200075
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22904
 #EXTINF:-1 tvg-id="" tvg-name="Gravitas Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/5ae9b59f43fe97054b01bf6701d69b85.jpeg" group-title="ប៉ុស្ត៍រឿង Movie",Gravitas Movies
 http://iptvmedia.live:8080/F35336/f03f8213/281943
 #EXTINF:-1 tvg-id="" tvg-name="Grit" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a33e5715cf763a606780628bb8e8b930.png" group-title="ប៉ុស្ត៍រឿង Movie",Grit
-http://iptvmedia.live:8080/F35336/f03f8213/15086
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22900
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9d4f141d9697ce3e5bff43e3e5dce90d.png" group-title="ប៉ុស្ត៍រឿង Movie",Hallmark Channel
-http://iptvmedia.live:8080/F35336/f03f8213/759
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10730
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5eded609bcc764818c14afca017ad2ce.png" group-title="ប៉ុស្ត៍រឿង Movie",Hallmark Drama
-http://iptvmedia.live:8080/F35336/f03f8213/3387
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22885
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/abc75ec2e23ebd708295d28c4a78404b.png" group-title="ប៉ុស្ត៍រឿង Movie",Hallmark Movies & Mysteries
-http://iptvmedia.live:8080/F35336/f03f8213/3388
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22884
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO
-http://iptvmedia.live:8080/F35336/f03f8213/2336
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO 2
-http://iptvmedia.live:8080/F35336/f03f8213/5844
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10732
 #EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO Comedy
-http://iptvmedia.live:8080/F35336/f03f8213/2335
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10731
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO Family
-http://iptvmedia.live:8080/F35336/f03f8213/760
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10674
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO Signature
-http://iptvmedia.live:8080/F35336/f03f8213/6305
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10733
 #EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="ប៉ុស្ត៍រឿង Movie",HBO Zone
-http://iptvmedia.live:8080/F35336/f03f8213/6328
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10734
 #EXTINF:-1 tvg-id="" tvg-name="HDNet Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8bbe5654f1224356456b7ae7d20d2846.png" group-title="ប៉ុស្ត៍រឿង Movie",HDNet Movies
-http://iptvmedia.live:8080/F35336/f03f8213/200162
+http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22882
 #EXTINF:-1 tvg-id="" tvg-name="IFC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3979eea600fff61422e88e89e2c9be7a.png" group-title="ប៉ុស្ត៍រឿង Movie",IFC
 http://iptvmedia.live:8080/F35336/f03f8213/2339
 #EXTINF:-1 tvg-id="" tvg-name="INSP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/9b6c5c828fa60ad8691c0ed494be2159.png" group-title="ប៉ុស្ត៍រឿង Movie",INSP
