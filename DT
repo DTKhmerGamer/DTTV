@@ -9,16 +9,13 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlis
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CNC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/966549443?profile=pass
+http://103.25.92.30:10017/2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MYTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channel/24907eda7482b7ea5704d87ca7b6cb2c?profile=webtv-vp8-vorbis-webm
+http://103.25.92.30:10018/2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/536374439?profile=pass
+http://103.25.92.30:10016/2.m3u8
 
 #EXTINF:0 tvg-country="KH" tvg-logo="http://cache.khmerlive.tv/bayontvnews.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
@@ -39,8 +36,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3ប៉ុស្ត៍ខ្មែរ Cambodia2004.png/revision/latest?cb=20191208065059" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channel/902976b999a9acc3403fda7d1f66991a?profile=webtv-vp8-vorbis-webm
+https://hls-pull-happywatch99.cdnvideo.asia/live/tv3_v20220224/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yu1wPyN.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", SEATV HD
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
@@ -57,10 +54,22 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/280.jpg", D MUSIC
+http:\\103.25.92.30:10027\2.m3u8
+
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1178.jpg", CCOC
+https://hls-pull-happywatch99.cdnvideo.asia/live/ccochdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="ttps://happywatch99.com/assets/global/live_thumb/1184.jpg", Kool
+https://hls-pull-happywatch99.cdnvideo.asia/live/koolplay_v$$240211$/playlist.m3u8
+
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg", PP Digital
+https://hls-pull-happywatch99.cdnvideo.asia/live/ppdhdtv_v$$240211$/playlist.m3u8
+
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png", Fresh News (720p)
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dcniccw.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", Wiki TV
@@ -70,32 +79,28 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CTV8KH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channel/e926404a648d409acc36d475505f9f0e?profile=webtv-vp8-vorbis-webm
+https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
 
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQMZWY-o5p6CVTQkkkg2jIDdjsZr7FZi7V7j65f=s900-c-k-c0x00ffffff-no-rj" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channel/7a1b347c65901ddd6a9ea8ad1982c884?profile=webtv-vp8-vorbis-webm
+http:\\103.25.92.30:10028\2.m3u8
 
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="PPCTV10" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT1p7ljkQg7WO62hcg326HogOttPyM8M4prLCeV=s900-c-k-c0x00ffffff-no-rj" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channel/2f1e34b6baf0c07ad6baae9f9f290d2e?profile=webtv-vp8-vorbis-webm
+http:\\103.25.92.30:10029\2.m3u8
 
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="https://shorturl.at/qrBY7" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", AKCTV 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/434020659?profile=pass
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CAMTV" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV
+http:\\103.25.92.30:10001\2.m3u8
 
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="https://shorturl.at/ekPRU" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", AKCTV 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/1941077281?profile=pass
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="CAMTV CINEMA" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV CINEMA
+http:\\103.25.92.30:10002\2.m3u8
 
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="https://shorturl.at/sKN35" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", AKCTV 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/1721237608?profile=pass
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="CAMTV DRAMA" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV DRAMA
+http:\\103.25.92.30:10003\2.m3u8
 
-#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://shorturl.at/itFHV" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", AKCTV 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://203.80.165.14/stream/channelid/1601899558?profile=pass
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="CAMTV MUSIC" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV MUSIC
+http:\\103.25.92.30:10004\2.m3u8
+
+#EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="CAMTV MUSIC OLD" tvg-logo="https://media.licdn.com/dms/image/C5603AQFl3LXKlE9pGQ/profile-displayphoto-shrink_200_200/0/1516953270817?e=2147483647&v=beta&t=hV_sVN93iGPzEP-aH2pvYQhM" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV MUSIC OLD
+http:\\103.25.92.30:10005\2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 5 Star Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax 5 Star Max
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10700
