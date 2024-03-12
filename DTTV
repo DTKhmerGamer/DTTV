@@ -103,6 +103,11 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
+http://103.25.92.30:10027/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
+http://103.25.92.30:10028/2.m3u8
+
 ##NEWS =========================================================================================================================================================
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="News", ABC News HD
