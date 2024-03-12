@@ -24,7 +24,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="b1b924f78be1a86bbbe615cb8540aaed" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TV5_Digital_Logo.png/revision/latest?cb=20220212084317" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", TV5
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3ប៉ុស្ត៍ខ្មែរ Cambodia2004.png/revision/latest?cb=20191208065059" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", TV3
-https://hls-pull-happywatch99.cdnvideo.asia/live/tv3_v20220224/playlist.m3u
+http://103.25.92.30:10022/2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yu1wPyN.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", SEATV HD
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="0d2a45f0bd080f13dd5def60e2a94559" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9ប៉ុស្ត៍ខ្មែរ Cambodia.png/revision/latest?cb=20191208065632" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", TV9
