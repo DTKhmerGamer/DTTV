@@ -53,7 +53,7 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
 http://103.25.92.30:10027/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV9" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
 http://103.25.92.30:10028/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 5 Star Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax 5 Star Max
