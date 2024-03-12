@@ -9,7 +9,7 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlis
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CNC
-http://103.25.92.30:10017/2.m3u8
+https://hls-pull-happywatch99.cdnvideo.asia/live/cnc_news_v$$240211$/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MYTV
 http://103.25.92.30:10018/2.m3u8
