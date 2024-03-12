@@ -35,6 +35,8 @@ https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
+http://103.25.92.30:10027/2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1178.jpg", CCOC
 https://hls-pull-happywatch99.cdnvideo.asia/live/ccochdtv/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="ttps://happywatch99.com/assets/global/live_thumb/1184.jpg", Kool
@@ -51,10 +53,20 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CTV8KH
 https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
-http://103.25.92.30:10027/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV9" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
 http://103.25.92.30:10028/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV10" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV10
+http://103.25.92.30:10029/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV
+http://103.25.92.30:10001/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Cinema" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Cinema
+http://103.25.92.30:10002/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Drama" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Drama
+http://103.25.92.30:10003/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Music" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Muisc
+http://103.25.92.30:10004/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Old Music" tvg-logo="" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Old Music
+http://103.25.92.30:10005/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 5 Star Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax 5 Star Max
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10700
