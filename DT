@@ -45,6 +45,8 @@ https://hls-pull-happywatch99.cdnvideo.asia/live/koolplay_v$$240211$/playlist.m3
 https://hls-pull-happywatch99.cdnvideo.asia/live/ppdhdtv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://ibb.co/RvKy8vK", CI TV
+https://livefta.malimarcdn.com/ftaedge00/citv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dcniccw.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", Wiki TV
