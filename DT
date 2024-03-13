@@ -39,6 +39,8 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 http://103.25.92.30:10027/2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1178.jpg", CCOC TV
 https://hls-pull-happywatch99.cdnvideo.asia/live/ccochdtv/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1358.jpg", SPM TV
+https://hls-pull-happywatch99.cdnvideo.asia/live/spmhdtv/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1184.jpg", Kool TV
 https://hls-pull-happywatch99.cdnvideo.asia/live/koolplay_v$$240211$/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg", PP Digital TV
