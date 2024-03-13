@@ -57,15 +57,15 @@ https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
 http://103.25.92.30:10028/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PPCTV_drama_10.png/revision/latest?cb=20191210054249" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV10
 http://103.25.92.30:10029/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV M1
 http://103.25.92.30:10001/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Cinema" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Cinema" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV M2
 http://103.25.92.30:10002/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Drama" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Drama" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV M3
 http://103.25.92.30:10003/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Music" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Muisc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Music" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV K1
 http://103.25.92.30:10004/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Old Music" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV Old Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMTV Old Music" tvg-logo="https://i.ibb.co/Lrzy4tk/download.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CAMTV K2
 http://103.25.92.30:10005/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 5 Star Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="ប៉ុស្ត៍រឿង Movie",Cinemax 5 Star Max
