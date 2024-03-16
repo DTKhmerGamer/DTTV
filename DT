@@ -56,7 +56,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NETLINK TV" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=384&q=75" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", NETLINK TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", CTV8KH
-https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
+http://103.25.92.30:10012/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/PPCTV_drama_9.png/revision/latest?cb=20191210054252" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV9
 http://103.25.92.30:10028/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PPCTV_drama_10.png/revision/latest?cb=20191210054249" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", PPCTV10
