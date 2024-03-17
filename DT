@@ -37,10 +37,6 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="https://1.bp.blogspot.com/-YMTt8aYMSk0/XmRrzB_mLUI/AAAAAAAAJYY/0z_4zUnVf00EiRM3qMF3LeOQRGlryZX4wCLcBGAsYHQ/w820/D-music.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
 http://103.25.92.30:10027/2.m3u8
-#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/18/1708082997435/fdcf1f1a18d7_640_360.png", តុក្កតា 24ម៉ោង
-https://live-evg3.tv360.metfone.com.kh/live/metfonekids.m3u8
-#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/15/1708072464939/777718d546a3_640_360.png", រឿងបរទេស 24ម៉ោង
-https://live-evg3.tv360.metfone.com.kh/live/metfonetv.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://i.ibb.co/7YD4hYD/download-1.jpg", CI TV
