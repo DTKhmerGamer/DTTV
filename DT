@@ -37,6 +37,16 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D MUSIC" tvg-logo="https://1.bp.blogspot.com/-YMTt8aYMSk0/XmRrzB_mLUI/AAAAAAAAJYY/0z_4zUnVf00EiRM3qMF3LeOQRGlryZX4wCLcBGAsYHQ/w820/D-music.jpg" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", D MUSIC
 http://103.25.92.30:10027/2.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1358.jpg", SPM TV
+https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1178.jpg", CCOC TV
+https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="ttps://happywatch99.com/assets/global/live_thumb/1184.jpg", Kool TV
+https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg", PP Digital
+https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/komsan_tv_kh.png", Komsan TV
+https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://i.ibb.co/7YD4hYD/download-1.jpg", CI TV
