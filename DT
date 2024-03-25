@@ -1779,17 +1779,17 @@ http://iptvmedia.live:8080/F35336/f03f8213/299106
 http://iptvmedia.live:8080/F35336/f03f8213/1066
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP JP: Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Animax
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/151321
+http:\\cdns.jp-primehome.com:8000\zhongying\live\playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="" tvg-name="BabyFirst TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/e620a2355e3980b7a21df9ac338f1789.jpg" group-title="ប៉ុស្ត៍តុក្កតា Kids",BabyFirst TV
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/2232
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Boomerang
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/1285
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoon Network
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22531
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoon Club" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoon Club
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/161956
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoonito
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/17913
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",CBBC
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/6147
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",CBeebies
