@@ -45,7 +45,7 @@ https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
 https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg", PP Digital
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/komsan_tv_kh.png", Komsan TV
+#EXTINF:-1 group-title="ប៉ុស្ត៍ខ្មែរ Cambodia" tvg-logo="https://www.lyngsat.com/logo/tv/kk/komsan_tv_kh.png", Kamsan TV
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="e774585e93aa418bb5466be49a1c3532" tvg-name="MSJTV" tvg-logo="http://www.msjtv.asia/uploads/logo.png" group-title="ប៉ុស្ត៍ខ្មែរ Cambodia", MSJTV
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
