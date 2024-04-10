@@ -1785,21 +1785,21 @@ http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Boomerang
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoon Network
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+http://199.127.60.83:14687/
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoon Club" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoon Club
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/161956
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Cartoonito
-http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+http://199.127.60.83:14682
 #EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",CBBC
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/6147
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",CBeebies
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/6146
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Disney Channel
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22911
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10829
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Disney Junior
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/10735
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10830
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Disney XD
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/22910
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10831
 #EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/636d230717e1a437342b61b5bd962860.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Duck TV
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/9769
 #EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Lolly Kids
@@ -1807,13 +1807,13 @@ http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/74050
 #EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Moonbug Kids
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/132375
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr Too" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d7143419964782c56e68963cebfa311.jpg" group-title="ប៉ុស្ត៍តុក្កតា Kids",Nick Jr Too
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/12496
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10866
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Nick Junior
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/1292
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10865
 #EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",nickelodeon
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/1291
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10867
 #EXTINF:-1 tvg-id="" tvg-name="nicktoons" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",nicktoons
-http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/1261
+http://190.61.43.117:45000/play/a03u
 #EXTINF:-1 tvg-id="" tvg-name="Pop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" group-title="ប៉ុស្ត៍តុក្កតា Kids",Pop
 http://homeplex.live:8080/q3XcbpTgetcP/hsdfjgsdyfduf/12494
 #EXTINF:-1 tvg-id="" tvg-name="Pop Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/577986769451a77f9b92cf2150ca0bfd.png" group-title="ប៉ុស្ត៍តុក្កតា Kids",Pop Max
